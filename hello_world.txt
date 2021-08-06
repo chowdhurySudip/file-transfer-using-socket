@@ -1,0 +1,3034 @@
+Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.
+Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.
+Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.
+Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.
+Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.
+Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.
+Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.
+Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.
+Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.
+Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.Client
+The client performs the following functions.
+
+Start the program
+Declare the variables and structures required.
+A socket is created and the connect function is executed.
+The file is opened.
+The data from the file is read and sent to the server.
+The socket is closed.
+The program is stopped.
+
+
+Server
+The client performs the following functions.
+
+Start the program.
+Declare the variables and structures required.
+The socket is created using the socket function.
+The socket is binded to the specific port.
+Start listening for the connections.
+Accept the connection from the client.
+Create a new file.
+Receives the data from the client.
+Write the data into the file.
+The program is stopped.
